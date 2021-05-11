@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on React based Front-end projects
 - 🤔 I’m looking for help with NodeJs
 - 💬 Ask me about HTML, CSS, JS
-- 📫 How to reach me: [Linkedin-@Hamza Zaman](https://www.linkedin.com/in/hamza-zaman-4602911b8/), [SoloLearn-@Hamza Zaman](https://www.sololearn.com/profile/7572978)
+- 📫 How to reach me: [Linkedin-@Hamza Zaman](https://www.linkedin.com/in/hamza-zaman-4602911b8/), [SoloLearn-@Hamza Zaman](https://www.sololearn.com/profile/7572978), [Medium-@Hamza Zaman](https://hamzazaman500.medium.com/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 🙂
 
